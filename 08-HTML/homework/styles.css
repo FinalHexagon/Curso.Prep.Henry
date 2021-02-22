@@ -1,0 +1,26 @@
+body {
+    background: url(fondo.jpg);
+    background-size: 100%;
+}
+.h1 {
+    color: style="color: midnightblue;";
+}
+.thirdDiv {
+    height: 600px; width: 500px;
+}
+.thirdDiv {
+    background-color: darkred; padding: 50px;border:10px midnightblue;
+}
+.spanId {
+    font-size: 18px;
+}
+.spanId {
+    margin: 50px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+
