@@ -1,0 +1,8 @@
+body {
+    background: url(fondoCv.jpg);
+    background-size: 100%;
+}
+html {
+    display: flex;
+    justify-content: center;
+}
