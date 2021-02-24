@@ -7,7 +7,7 @@ html {
     justify-content: center;
 }
 #foto{
-    position: fixed;
+    position:absolute;
     top: 20px;
     right: 450px;
 } 
